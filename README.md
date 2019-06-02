@@ -1,4 +1,5 @@
-# training-frontend
+# Todo App
+This is the frontend for a simple Vue.js to-do/note-taking app
 
 ## Project setup
 ```
